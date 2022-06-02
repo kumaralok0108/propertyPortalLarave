@@ -1,0 +1,14 @@
+
+.env
+*.example
+.env
+.gitattributes
+.styleci.yml
+.editorconfig
+resources/views/admin/list-propertytype.blade.php
+resources/views/admin/list-propertytype.blade.php
+app/Http/Controllers/frontend/bacfile.php
+public/storage/files/1652170996_35905_210617_1318_777_tmb.Jpeg
+public/storage/files/1652170996_35906_210617_1321_919_tmb.Jpeg
+DS_Store
+node_modules/.bin/ansi-html
